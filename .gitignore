@@ -106,6 +106,8 @@ venv.bak/
 # custom
 data/
 data
+work_dirs/
+.history/
 .vscode
 .idea
 .DS_Store
